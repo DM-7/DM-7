@@ -15,7 +15,7 @@
   ##
  
 <div> 
-  <a href="mailto:danilomenezes66@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>
-  <a href="https://linkedin.com/in/danilosmenezes/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a> 
-  <a href="https://instagram.com/menezes.07" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a> 
+  <a href="mailto:danilomenezes66@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank"></a>
+  <a href="https://linkedin.com/in/danilosmenezes/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a> 
+  <a href="https://instagram.com/menezes.07" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a> 
 </div>
