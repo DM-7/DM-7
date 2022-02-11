@@ -1,4 +1,6 @@
-### Olá, meu nome é Danilo Menezes, sou estudante de desenvolvimento Web Full Stack!!!
+### Olá, meu nome é Danilo Menezes.
+
+<p>Atualmente estou estudando desenvolvimento web full stack na Trybe.</p>
 <div align="center">
   <a href="https://github.com/dm-7">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dm-7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,7 +11,6 @@
   <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Danilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Danilo-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
   
   ##
